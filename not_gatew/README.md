@@ -1,16 +1,8 @@
-# not_gatew
+# not_gatew - 
 
-A new Flutter project.
+This Flutter application is specifically for uploading articles and getting a preview after the article is uploaded.
 
-## Getting Started
+## This is a glimpse of how the application works - 
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/41112044/121382376-29cac800-c964-11eb-895e-4f53eddac650.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
